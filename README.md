@@ -2,7 +2,7 @@
 
 ### Hi there, I'm __. Currently transitioning to Web development.  
 
-[![Website](image)](https://codestackr.com)
+[![Website](image)](url)
 [![Instagram Follow]](https://www.instagram.com/inksults2inkjuries/)
 
 
