@@ -11,9 +11,8 @@
 ## 👯 I'm a Developer and an Artist 
 
 - 🌱 As a developer. I am prioritizing Next.js, MySQL, and Typescript 🤣
-- ✒️ I love to draw and learn new languages ```mermaid
-Japanese and Korean
-```
+- ✒️ I love to draw and learn new languages `Currently Learning Japanese and Korean`
+
 
 <br />
 
@@ -51,9 +50,6 @@ Japanese and Korean
 
 
 
-```mermaid
-
-```
 
 
 ```mermaid
