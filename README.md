@@ -1,19 +1,18 @@
 # Overview
 
-### Hi there, I'm __. Currently transitioning to Web development.  
+### Hi there, My name is Hou and I am currently transitioning to Web development.  
 
-[![Website](image)](url)
+[![Website]](https://hou-portfolio.netlify.app/)
+[![Website]](https://www.linkedin.com/in/houchong-chan/)
 [![Instagram Follow]](https://www.instagram.com/inksults2inkjuries/)
 
 
 > Hello
 
-## I'm a Developer and an Artist 
+## 👯 I'm a Developer and an Artist 
 
-- 🌱 I’m currently learning **everything** 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and learn new languages 
+- 🌱 As a developer. I am prioritizing Next.js, MySQL, and Typescript 🤣
+- ✒️ I love to draw and learn new languages 
 
 ### Connect with me:
 
@@ -42,15 +41,7 @@
 
 ---
 
-### 📕 Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START -->
-- [Add first blog post here](url)
-<!-- BLOG-POST-LIST:END -->
-
-➡️ [Add homepage here](url )
-
----
 
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
