@@ -2,9 +2,9 @@
 
 ### Hi there, My name is Hou and I am currently a Mechanical Engineer transitioning to Web development.  
 
-[![PortfolioWebsite](https://img.shields.io/website?label=Hou-Portfolio.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://hou-portfolio.netlify.app/)
-[![LinkedIn](https://img.shields.io/website?label=LinkedIn.com&color=blue&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://www.linkedin.com/in/houchong-chan/)
-[![Instagram Follow](https://img.shields.io/website?label=Instagram&color=red&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://www.instagram.com/inksults2inkjuries/)
+[![PortfolioWebsite](https://img.shields.io/website?label=Hou-Portfolio.com&style=for-the-badge&url=https://hou-portfolio.netlify.app)](https://hou-portfolio.netlify.app/)
+[![LinkedIn](https://img.shields.io/website?label=LinkedIn.com&color=blue&style=for-the-badge&url=https://hou-portfolio.netlify.app)](https://www.linkedin.com/in/houchong-chan/)
+[![Instagram Follow](https://img.shields.io/website?label=Instagram&color=red&style=for-the-badge&url=https://hou-portfolio.netlify.app)](https://www.instagram.com/inksults2inkjuries/)
 
 <br />
 
